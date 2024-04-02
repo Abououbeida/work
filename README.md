@@ -10,7 +10,7 @@
 - 💬 Ask me about **ML , Statistic , web Developpement, Data Analysis**
 
 - 📫 How to reach me **abououbeidadia@gmail.com**
-<img align="right" alt="Coding" width="400" src=https://www.bing.com/images/search?view=detailV2&ccid=yZRrCBN3&id=CE6B1C11930F6AA1F0636F882F180F0142469737&thid=OIP.yZRrCBN3kOOYefN48UtBXgHaE8&mediaurl=https%3a%2f%2fcdnwpedutorenews.gramedia.net%2fwp-content%2fuploads%2f2022%2f09%2f22033312%2fimage001-31.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c9946b08137790e39879f378f14b415e%3frik%3dN5dGQgEPGC%252bIbw%26pid%3dImgRaw%26r%3d0&exph=640&expw=960&q=annimed+data+science+photo&simid=608043820794334280&FORM=IRPRST&ck=284A6FCCA6ED1480E055673F092B7EBB&selectedIndex=13&itb=0&ajaxhist=0&ajaxserp=0>
+<img align="right" alt="Coding" width="400" src=https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abououbeida-dia-638100260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abououbeida-dia-638100260/" height="30" width="40" /></a>
