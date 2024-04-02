@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abou Oubeid Dia</h1>
 <h3 align="center">A passionate Data Scientist from Mauritania</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abououbeida" alt="abououbeida" /></a> </p>
 
 - 🔭 I’m currently working on **Platforme for plants diseases détection**
 
